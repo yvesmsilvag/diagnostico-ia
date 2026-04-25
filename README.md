@@ -4,6 +4,8 @@
 
 > ⚕️ Esta herramienta es exclusivamente para uso por profesionales de la salud. No sustituye el juicio clínico ni la evaluación presencial.
 
+[English version available](./README.en.md)
+
 ---
 
 ## ¿Qué hace?
@@ -20,7 +22,7 @@ DiagnósticoIA recibe signos y síntomas de un paciente y genera un análisis cl
 
 ## Vista previa
 
-![Inicio](./assets/screenshot_landing)
+![Inicio](./assets/screenshot_landing.png)
 ![Análisis de Infección de Vías Respiratorias Altas](./assets/screenshot_IVRA.png)
 ![Referencia a GPC](./assets/screenshot_referencia_GPC.png)
 

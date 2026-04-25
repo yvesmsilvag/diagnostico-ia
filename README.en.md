@@ -22,7 +22,7 @@ DiagnósticoIA takes patient signs and symptoms and generates a structured clini
 
 ## Preview
 
-![Landing page](./assets/screenshot_landing)
+![Landing page](./assets/screenshot_landing.png)
 ![Upper Respiratory Tract Infection Analysis](./assets/screenshot_IVRA.png)
 ![Reference to GPC](./assets/screenshot_referencia_GPC.png)
 
