@@ -18,6 +18,14 @@ DiagnósticoIA recibe signos y síntomas de un paciente y genera un análisis cl
 
 ---
 
+## Vista previa
+
+![Inicio](./assets/screenshot_landing)
+![Análisis de Infección de Vías Respiratorias Altas](./assets/screenshot_IVRA.png)
+![Referencia a GPC](./assets/screenshot_referencia_GPC.png)
+
+---
+
 ## Condiciones cubiertas
 
 | Condición | Marco de razonamiento | GPC CENETEC |
@@ -68,7 +76,7 @@ Parser → renderizado por sección con colapsado
 ## Stack técnico
 
 - **React 18** — componentes funcionales, hooks (useState, useRef, useEffect)
-- **Anthropic Claude API** — modelo claude-sonnet-4-20250514
+- **Anthropic Claude API** — modelo claude-sonnet-4-5
 - **CSS-in-JS** — estilos inline + clases globales mínimas, sin dependencias de UI externas
 - **IBM Plex Sans / IBM Plex Mono / Playfair Display** — tipografía vía Google Fonts
 

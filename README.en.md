@@ -20,6 +20,14 @@ DiagnósticoIA takes patient signs and symptoms and generates a structured clini
 
 ---
 
+## Preview
+
+![Landing page](./assets/screenshot_landing)
+![Upper Respiratory Tract Infection Analysis](./assets/screenshot_IVRA.png)
+![Reference to GPC](./assets/screenshot_referencia_GPC.png)
+
+---
+
 ## Conditions covered
 
 | Condition | Reasoning framework | CENETEC GPC |
@@ -84,7 +92,7 @@ This project was built with explicit attention to the criteria used when evaluat
 ## Tech stack
 
 - **React 18** — functional components, hooks (useState, useRef, useEffect)
-- **Anthropic Claude API** — model claude-sonnet-4-20250514
+- **Anthropic Claude API** — model claude-sonnet-4-5
 - **CSS-in-JS** — inline styles + minimal global classes, no external UI dependencies
 - **IBM Plex Sans / IBM Plex Mono / Playfair Display** — typography via Google Fonts
 
